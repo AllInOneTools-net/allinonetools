@@ -1,7 +1,14 @@
 # AllInOneTools
 
+![Privacy First](https://img.shields.io/badge/Privacy-First-brightgreen)
+![No Tracking](https://img.shields.io/badge/No-Tracking-blue)
+![No Ads](https://img.shields.io/badge/No-Ads-success)
+![Open Source](https://img.shields.io/badge/Open-Source-orange)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow)
+
 AllInOneTools is a **privacy-first collection of free online tools** built with **HTML, CSS, and JavaScript**.  
 No tracking. No ads. No sign-ups. Just fast, simple utilities.
+
 
 ## 🌱 Why AllInOneTools?
 - 🔒 Privacy-first (no data collection)
