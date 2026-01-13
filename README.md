@@ -187,10 +187,10 @@ No frameworks. No build step. Minimal by design.
 
 Your data never leaves your device.
 
-## 🌐 Live Website
+## 🌍 Live Demos
 
-Visit the live platform:
-👉 https://allinonetools.net/
+Main Website: https://allinonetools.net  
+GitHub Pages Demo: https://allinonetools-net.github.io/allinonetools/
 
 All tools are free, fast, and accessible without login.
 
