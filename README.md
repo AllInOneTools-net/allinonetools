@@ -147,18 +147,20 @@ https://allinonetools.net/online-games
 
 > 🔁 New tools are added regularly based on real user needs.
 
-## ⭐ Most Used Tools
+## ⭐ Most Popular Tools
 
-These are some of the most popular tools used daily by users:
+These tools are most frequently used by visitors:
 
-- Keyword Research Tool
-- Adsense Eligibility Checker
-- Text Case Converter
-- Word & Character Counter
-- JSON Formatter
-- Construction Cost Estimator
-- Unit Converter
-- Website Technology Finder
+- GST Calculator  
+- Loan Calculator  
+- Image Compressor  
+- PDF to JPG Converter  
+- Keyword Research Tool  
+- Website Technology Finder  
+- Invoice Generator  
+- Password Generator  
+
+👉 Explore all tools: https://allinonetools.net/
 
 
 ## 🛠 Tech Stack
