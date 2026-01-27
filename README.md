@@ -205,10 +205,13 @@ Awesome PDF (GitHub) – Curated open-source collection of PDF tools
 https://github.com/abhi18av/awesome-pdf
 
 Product Hunt – Featured during launch and early user validation
+https://www.producthunt.com/products/all-in-one-tools
 
 SaaSHub – Listed and categorized based on platform relevance
+https://www.saashub.com/all-in-one-tools-hub
 
 Medium – Articles and case studies published by the team
+https://medium.com/@allinonetools.net
 
 ℹ️ These platforms list or reference AllInOneTools based on usefulness, transparency, and real-world value. No paid placements or endorsements are used.
 
