@@ -194,6 +194,40 @@ GitHub Pages Demo: https://allinonetools-net.github.io/allinonetools/
 
 All tools are free, fast, and accessible without login.
 
+## 🔐 Trusted & Community-Reviewed Platforms
+
+AllInOneTools is referenced and listed on multiple third-party platforms that independently review, curate, or document useful web tools. These listings help users and the open-source community understand our credibility, relevance, and commitment to quality.
+
+Awesome Online Tools (GitHub) – Curated list of high-quality online tools
+https://github.com/Bakumon/awesome-online-tools
+
+Awesome PDF (GitHub) – Curated open-source collection of PDF tools
+https://github.com/abhi18av/awesome-pdf
+
+Product Hunt – Featured during launch and early user validation
+
+SaaSHub – Listed and categorized based on platform relevance
+
+Medium – Articles and case studies published by the team
+
+ℹ️ These platforms list or reference AllInOneTools based on usefulness, transparency, and real-world value. No paid placements or endorsements are used.
+
+## 🌐 Social & Community
+
+Follow AllInOneTools for updates, new tools, and open-source discussions:
+
+🌍 Website: https://allinonetools.net
+
+🧑‍💻 GitHub Organization: https://github.com/AllInOneTools-net
+
+📝 Medium: https://medium.com/@allinonetools.net
+
+💬 Dev.to: https://dev.to/bhavin-allinonetools
+
+🧩 StackShare: https://stackshare.io/info7348/allinonetools
+
+🔗 LinkedIn: https://www.linkedin.com/in/allinonetools
+
 ## 📌 Philosophy
 This project focuses on **long-term sustainability**, performance, and user trust over hype.
 
