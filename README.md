@@ -8,8 +8,11 @@
 
 AllInOneTools is a **privacy-first collection of free online tools** built with **HTML, CSS, and JavaScript**.  
 No tracking. No ads. No sign-ups. Just fast, simple utilities.
+<p align="center">
 <a href="https://app.daily.dev/allinonetools"><img src="https://api.daily.dev/devcards/v2/igzBsWloJeaegzm9bQltZ.png?type=wide&r=ptz" width="652" alt="AllInOneTools's Dev Card"/></a>
-# AllInOneTools
+</p>
+Active on daily.dev • Building in public • Privacy-first tools
+
 
 
 ## 🌱 Why AllInOneTools?
