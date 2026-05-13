@@ -227,8 +227,6 @@ Follow AllInOneTools for updates, new tools, and open-source discussions:
 
 🧑‍💻 GitHub Organization: https://github.com/AllInOneTools-net
 
-📝 Medium: https://medium.com/@allinonetools.net
-
 💬 Dev.to: https://dev.to/bhavin-allinonetools
 
 🧩 StackShare: https://stackshare.io/info7348/allinonetools
